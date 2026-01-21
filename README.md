@@ -1,6 +1,7 @@
 # Kashinath Biradar
 Aspiring AI/ML Engineer with strong hands-on experience in Python, machine learning, deep learning, and Generative AI. Actively building projects involving RAG pipelines, vector databases, LangChain, and agent-based workflows.<br><br>Interested in applying data-driven solutions to real-world problems, contributing to production-ready systems, and continuously improving technical depth. Open to full-time roles, internships, and collaborative projects in AI, ML, and applied research.<br><br>Key interests include model development, experimentation, deployment fundamentals, and scalable AI application design.<br>
 
+<img src="![WhatsApp Image 2026-01-21 at 9 56 42 AM](https://github.com/user-attachments/assets/a9e623ee-7538-4dcd-a0c3-534acebc5bf4)"/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kashijob/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biradarkashijob@gmail.com) 
